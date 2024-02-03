@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CodeFirstApprochCore6.props" />
+</Project>
